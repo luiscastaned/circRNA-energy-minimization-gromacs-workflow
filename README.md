@@ -285,7 +285,7 @@ Cinvestav-IPN
 
 If you use this protocol in academic work, please cite:
 
-Castañeda Mota, L.E.  
+Castañeda-Mota, L.E.  
 *circRNA Energy Minimization Workflow using GROMACS.*  
 GitHub Repository (2026).
 
